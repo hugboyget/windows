@@ -1,1 +1,1 @@
-"This is 001 line."
+"This is 002 line,like rubbsh version 2.0"
