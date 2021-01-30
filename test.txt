@@ -1,0 +1,6 @@
+This is a file to test Git use.
+Hello!
+You are hansome
+nice to meet you
+Git is good to use.
+bye.
