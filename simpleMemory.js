@@ -95,7 +95,7 @@ if (initCheck()) {
         GhRepositories: 'Cnblogs-Theme-SimpleMemory',
         GhVersions: 'v1.3.0',
         CnVersions: "",
-        blogUser: "HUGBOY",
+        blogUser: "JustFly",
         blogAvatar: "https://pic.cnblogs.com/avatar/1902179/20200812135056.png",
         blogStartDate: "2019-12-18",
         menuCustomList: {},
