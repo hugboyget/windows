@@ -16,6 +16,7 @@
 @D:
 @cd hugboyget\windows
 ::-----------------------------------HugBoy-----------------------------
+@doskey updata=cmd-alias.bat
 @doskey me=type cmd-alias.bat
 @doskey whoareyou=echo I am D:\hugboyget\windows\cmd-alias.bat, designed by youself.
 @doskey wifi=netsh wlan show profiles  $*  key = clear
@@ -24,3 +25,4 @@
 ::------------------------------[App]-----------------------------------
 @doskey ipjl=..\..\BaiduNetdiskDownload\ipjingling\ipjingling.exe
 @doskey csgo=..\..\RuanJianShangDian\CS_GO\csgolauncher.exe
+@doskey music=..\..\Download\kuwo\kuwomusic\9.1.1.2_AN0\bin\kwmusic.exe
