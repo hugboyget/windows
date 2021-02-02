@@ -21,3 +21,6 @@
 @doskey wifi=netsh wlan show profiles  $*  key = clear
 @doskey green=color 02
 @doskey githelp=echo [_____1_____]git clone https://www.github.com/hugboyget/Repositories_name.git[_____2____]git add .[_____3_____]git commit -m "Descripted about your post"[_____4_____] git push origin main
+::------------------------------[App]-----------------------------------
+@doskey ipjl=..\..\BaiduNetdiskDownload\ipjingling\ipjingling.exe
+@doskey csgo=..\..\RuanJianShangDian\CS_GO\csgolauncher.exe
