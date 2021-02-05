@@ -26,3 +26,6 @@
 @doskey ipjl=..\..\BaiduNetdiskDownload\ipjingling\ipjingling.exe
 @doskey csgo=..\..\RuanJianShangDian\CS_GO\csgolauncher.exe
 @doskey music=..\..\Download\kuwo\kuwomusic\9.1.1.2_AN0\bin\kwmusic.exe
+@doskey shell=..\..\XunLeiDownload\finalshell\finalshell.exe
+@doskey e=E:
+@doskey qq=QQ-robot\OnoQQ.exe
